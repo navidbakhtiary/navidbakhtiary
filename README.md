@@ -6,7 +6,21 @@ I work on modern **Web Apps**, **Machine Learning Projects**, and **Blockchain-b
 I build scalable web applications, develop machine learning pipelines, and deploy services using modern DevOps tools.  
 I work with both frontend and backend technologies, deploy production systems, and apply machine learning in real-world projects.
 
----
+
+## 📊 Contribution Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=navidbakhtiary&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://github.com/navidbakhtiary">
+  <img src="https://ghchart.rshah.org/green/navidbakhtiary" alt="Navid's Github chart" />
+</a>
+
+## 📈 GitHub Stats
+
+![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidbakhtiary&layout=compact&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=navidbakhtiary&theme=radical&no-frame=true&row=1&column=6)
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -62,20 +76,8 @@ These tools help me:
 - Speed up documentation and testing
 - Brainstorm architectural improvements
 
----
-
-## 📈 GitHub Stats
-
-![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidbakhtiary&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=navidbakhtiary&theme=radical&no-frame=true&row=1&column=6)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 Website: Coming soon ...
 - 💼 LinkedIn: [linkedin.com/in/navid-bakhtiary](https://linkedin.com/in/navid-bakhtiary)
 - 📨 Email: navidbakhtiary@gmail.com
-
----

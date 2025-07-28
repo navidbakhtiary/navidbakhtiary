@@ -17,7 +17,7 @@ I work with both frontend and backend technologies, deploy production systems, a
 
 ## 📈 GitHub Stats
 
-![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical)
+<!-- ![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidbakhtiary&layout=compact&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=navidbakhtiary&theme=radical&no-frame=true&row=1&column=6)
 

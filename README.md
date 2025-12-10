@@ -7,10 +7,6 @@ I build scalable web applications, develop machine learning pipelines, and deplo
 I work with both frontend and backend technologies, deploy production systems, and apply machine learning in real-world projects.
 
 
-## 📊 Contribution Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=navidbakhtiary&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <a href="https://github.com/navidbakhtiary">
   <img src="https://ghchart.rshah.org/green/navidbakhtiary" alt="Navid's Github chart" />
 </a>

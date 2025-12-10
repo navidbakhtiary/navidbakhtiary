@@ -6,11 +6,6 @@ I work on modern **Web Apps**, **Machine Learning Projects**, and **Blockchain-b
 I build scalable web applications, develop machine learning pipelines, and deploy services using modern DevOps tools.  
 I work with both frontend and backend technologies, deploy production systems, and apply machine learning in real-world projects.
 
-
-<a href="https://github.com/navidbakhtiary">
-  <img src="https://ghchart.rshah.org/green/navidbakhtiary" alt="Navid's Github chart" />
-</a>
-
 ## 📈 GitHub Stats
 
 <!-- ![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical) -->

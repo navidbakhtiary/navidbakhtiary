@@ -9,8 +9,8 @@ I work with both frontend and backend technologies, deploy production systems, a
 ## 📈 GitHub Stats
 
 <!-- ![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidbakhtiary&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidbakhtiary&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=navidbakhtiary&theme=radical&no-frame=true&row=1&column=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidbakhtiary&layout=compact&theme=radical)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=navidbakhtiary&theme=radical&no-frame=true&row=1&column=6)]
 
 
 ## 🛠️ Tech Stack & Tools
@@ -23,6 +23,7 @@ I work with both frontend and backend technologies, deploy production systems, a
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)
 
 ### 📝 CMS & Blogging
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
@@ -55,9 +56,8 @@ I work with both frontend and backend technologies, deploy production systems, a
 I regularly enhance my productivity and code quality using modern AI coding assistants:
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-202123?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge)](https://deepseek.com/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1DB6E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
-[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)](https://gemini.google.com/)
+[![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 .
 .
 .
